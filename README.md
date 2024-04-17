@@ -8,3 +8,5 @@ Here is the [screenshot](https://github.com/Aimon-Rana-Jihad/assignment_11/commi
 
 3) NDSI map of your upazila by using Sentinel-2 imagery for 2021.here is the GEE [link](https://code.earthengine.google.com/7e678e9a661216928c7d36aa2f89e6d4),
 here is the [ss](https://github.com/Aimon-Rana-Jihad/assignment_11/commit/6b10dd2f66bebe42495fd4f02fcab7060983c807)
+
+4)The maximum and minimum NDVI value of your NDVI map.HEre is the GEE [link](https://code.earthengine.google.com/51773d78ca1afd1c58fda1c55d93bab8),Here is the [SS](https://github.com/Aimon-Rana-Jihad/assignment_11/commit/16393909a1505a009e36ae991675e9355eabcd88)
