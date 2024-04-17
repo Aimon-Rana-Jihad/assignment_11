@@ -1,5 +1,5 @@
 # assignment_11
-1) NDVI map of your upazila by using Landsat 9 imagery for 2022.here is the [link ](https://code.earthengine.google.com/2c8e57f701c4233b70f9e80dc7e74b83),
+1) NDVI map of your upazila by using Landsat 9 imagery for 2022.here is the [link ](https://code.earthengine.google.com/76a01a05c22382cbc6d48c5566418582),
 here is the [screenshot](https://github.com/Aimon-Rana-Jihad/assignment_11/commit/478a8a671a7553c58fc8c9765ef80213992ba81c)
 
 2)NDWI map of your upazila by using Sentinel-2 imagery for 2023.Here is the [link](https://code.earthengine.google.com/5931d93f2833bc234f611a732865d232),
